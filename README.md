@@ -98,20 +98,18 @@ It helps users track waste generation, recycling habits, and encourages sustaina
 waste-tracker/
 │
 ├── frontend/
-│ ├── src/
-│ ├── public/
-│ └── package.json
+│   ├── src/
+│   ├── public/
+│   └── package.json
 │
 ├── backend/
-│ ├── src/
-│ ├── routes/
-│ ├── controllers/
-│ └── package.json
+│   ├── src/
+│   │   ├── routes/
+│   │   └── controllers/
+│   └── package.json
 │
 └── README.md
 
-
----
 
 ## 🔐 Authentication Flow
 
