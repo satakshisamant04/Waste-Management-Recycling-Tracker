@@ -31,7 +31,7 @@ It helps users track waste generation, recycling habits, and encourages sustaina
 ![Admin Dashboard](screenshots/AdminDashboard.png)
 
 ---
-### 🧑 Pie Chart
+### Pie Chart
 ![Pie Chart](screenshots/PieChart.png)
 
 ---
