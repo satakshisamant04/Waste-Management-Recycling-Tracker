@@ -18,7 +18,7 @@ It helps users track waste generation, recycling habits, and encourages sustaina
 ---
 
 ### 🗑️ Add Waste & Recent Activity
-![Add Waste and Activity](screenshots/Recent Activity.png)
+![Add Waste and Activity](screenshots/RecentActivity.png)
 ---
 
 ### 👤 User Profile
@@ -27,11 +27,11 @@ It helps users track waste generation, recycling habits, and encourages sustaina
 ---
 
 ### 🧑‍💼 Admin Dashboard
-![Admin Dashboard](screenshots/Admin Dashboard.png)
+![Admin Dashboard](screenshots/AdminDashboard.png)
 
 ---
 ### 🧑‍💼 Pie Chart
-![Pie Chart](screenshots/Pie Chart.png)
+![Pie Chart](screenshots/PieChart.png)
 
 ---
 
