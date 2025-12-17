@@ -19,6 +19,7 @@ It helps users track waste generation, recycling habits, and encourages sustaina
 
 ### 🗑️ Add Waste & Recent Activity
 ![Add Waste and Activity](screenshots/RecentActivity.png)
+
 ---
 
 ### 👤 User Profile
