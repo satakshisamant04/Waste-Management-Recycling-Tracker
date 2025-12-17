@@ -95,20 +95,25 @@ It helps users track waste generation, recycling habits, and encourages sustaina
 ---
 
 ## 📂 Project Structure
-waste-tracker/
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── package.json
-│
-├── backend/
-│   ├── src/
-│   │   ├── routes/
-│   │   └── controllers/
-│   └── package.json
-│
-└── README.md
+
+Plaintext
+
+    waste-tracker/
+    │
+    ├── frontend/
+    │   ├── src/
+    │   ├── public/
+    │   └── package.json
+    │
+    ├── backend/
+    │   ├── src/
+    │   │   ├── routes/
+    │   │   └── controllers/
+    │   └── package.json
+    │
+    └── README.md               # Backend build instructions
+
+
 
 
 ## 🔐 Authentication Flow
