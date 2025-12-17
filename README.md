@@ -5,6 +5,36 @@ It helps users track waste generation, recycling habits, and encourages sustaina
 
 ---
 
+## 📸 Screenshots
+
+### 🔐 Authentication (Login)
+![Login Page](screenshots/Login.png)
+
+---
+
+### 📊 User Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+---
+
+### 🗑️ Add Waste & Recent Activity
+![Add Waste and Activity](screenshots/Recent Activity.png)
+---
+
+### 👤 User Profile
+![User Profile](screenshots/Profile.png)
+
+---
+
+### 🧑‍💼 Admin Dashboard
+![Admin Dashboard](screenshots/Admin Dashboard.png)
+
+---
+### 🧑‍💼 Pie Chart
+![Pie Chart](screenshots/Pie Chart.png)
+
+---
+
 ## 🚀 Live Demo
 
 - 🌐 **Frontend (Vercel):** https://vercel.com/satakshisamant04s-projects/waste-management-recycling-tracker/Grvn1p8bJJcS4DwLDZEtekoT6D9h  
