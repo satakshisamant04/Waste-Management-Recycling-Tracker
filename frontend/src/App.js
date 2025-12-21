@@ -8,6 +8,7 @@ import Profile from "./pages/Profile";
 import EditProfile from "./pages/EditProfile";
 import ChangePassword from "./pages/ChangePassword";
 import AdminDashboard from "./pages/AdminDashboard";
+import WasteHistory from "./pages/WasteHistory";
 
 function App() {
   return (
@@ -21,6 +22,8 @@ function App() {
         <Route path="/edit-profile" element={<EditProfile />} />
         <Route path="/change-password" element={<ChangePassword />} />
         <Route path="/admin" element={<AdminDashboard />} />
+        <Route path="/history" element={<WasteHistory />} />
+
       </Routes>
     </BrowserRouter>
   );

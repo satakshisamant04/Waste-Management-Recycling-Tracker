@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://waste-management-recycling-tracker.onrender.com/api",
+  baseURL: "http://localhost:5000/api",
 });
 
 // Attach token to every request

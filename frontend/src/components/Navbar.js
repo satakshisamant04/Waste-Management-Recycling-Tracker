@@ -81,6 +81,17 @@ function Navbar({ darkMode, setDarkMode }) {
                 {darkMode ? "☀️ Light Mode" : "🌙 Dark Mode"}
               </button>
 
+<button
+  onClick={() => {
+    navigate("/history");
+    setOpen(false);
+  }}
+  className="w-full text-left px-4 py-2 text-gray-900 dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700"
+>
+  📜 Waste History
+</button>
+
+
               {/* Logout */}
               <button
                 onClick={handleLogout}

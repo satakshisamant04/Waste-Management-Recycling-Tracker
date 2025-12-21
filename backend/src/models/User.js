@@ -23,6 +23,15 @@ const UserSchema = new mongoose.Schema(
       type: Number,
       default: 0,
     },
+    monthlyGoal: {
+  type: Number,
+  default: 20, // kg
+},
+goalAchieved: {
+  type: Boolean,
+  default: false,
+},
+
   },
   { timestamps: true }
 );
